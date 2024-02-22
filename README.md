@@ -1,6 +1,5 @@
 # PDFToImgCore
-NET 5实现PDF转IMG示例
 
-----------------------------
-
-NET 5 implements PDF to IMG example
+## 如图:
+![code](https://raw.githubusercontent.com/WuLex/UsefulPicture/main/excelexportimgs/pdfexportimgs/imagepdf.png)
+![code](https://raw.githubusercontent.com/WuLex/UsefulPicture/main/excelexportimgs/pdfexportimgs/convertedimg.png)
